@@ -3,7 +3,7 @@
 
 ### Running the code
 ```
-$ python main_pp.py
+python main_pp.py
 ```
 
 ### Downstream tasks
